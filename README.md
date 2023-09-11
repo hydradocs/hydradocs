@@ -83,6 +83,12 @@
 
 ---
 
+## GitHub Stats
+
+[![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=hydradocs&theme=github_dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 
 
 <!--
