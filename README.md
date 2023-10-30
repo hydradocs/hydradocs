@@ -3,6 +3,7 @@
 ---
 ## About Me:
 -  👨‍💻 MERN STACK Web Developer
+-  🀄︎ Smart Contract New bee
 -  💻 Favorite Tech Stack: Next.js, TailwindCSS, Bootstrap, Django 
 -  🎧 I love listening to the music of different genres and languages on [Spotify](https://open.spotify.com/playlist/39EzsLVomjolBfWYAd6Tw3).
 
