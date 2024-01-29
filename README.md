@@ -9,7 +9,7 @@
 -  💻 Favorite Tech Stack: Next.js, TailwindCSS, Bootstrap, Django 
 -  🎧 I love listening to the music of different genres and languages on [Spotify](https://open.spotify.com/playlist/39EzsLVomjolBfWYAd6Tw3).
 
-![Buy me a coffee](https://www.buymeacoffee.com/hydradocs)
+[Buy me a coffee](https://www.buymeacoffee.com/hydradocs)
 ---
 
 ## Software & Technologies I am familiar with:
